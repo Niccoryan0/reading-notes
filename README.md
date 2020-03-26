@@ -3,8 +3,8 @@
 
 Contents:
 - [201](#code-201-foundations-of-software-development)
-- 301
-- 401
+- [301](#code-301-intermediate-software-development)
+- [401](#code-401-advanced-software-development)
 
 ## Code 201: Foundations of Software Development
 
