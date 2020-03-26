@@ -2,7 +2,7 @@
 *Collection of reading notes for Code Fellows courses 201 to 401.*
 
 Contents:
-- [201](##code-201:-foundations-of-software-development)
+- [201](#code-201-foundations-of-software-development)
 - 301
 - 401
 
