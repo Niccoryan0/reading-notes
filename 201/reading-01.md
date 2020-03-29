@@ -1,10 +1,16 @@
 # Reading 01
 
-Readings for the first week of class
+*Readings for the first week of class*
 
 ## HTML & CSS:
 ### Introduction (pp.2-11)
+**Overview:**
 
+
+**Definitions:**
+
+term
+: definition
 ### HTML Chapter 1: “Structure” (pp.12-39)
 
 ### HTML Chapter 8: “Extra Markup” (p.176-199)
