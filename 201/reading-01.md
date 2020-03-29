@@ -8,7 +8,6 @@
 
 
 **Definitions:**
-
 term
 : definition
 ### HTML Chapter 1: “Structure” (pp.12-39)
