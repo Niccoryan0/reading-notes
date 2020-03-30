@@ -77,28 +77,28 @@ iframe
 **HTML5 Elements:**
 
 Headers and footers:
-: <header> and <footer> can be used for an entire webpages header and footer, but also for an individual article or section's header and footer.
+: &lt;header&gt; and &lt;footer&gt; can be used for an entire webpages header and footer, but also for an individual article or section's header and footer.
 
 Navigation
-: <nav> is used for a section that allows the user to navigate around the site.
+: &lt;nav&gt; is used for a section that allows the user to navigate around the site.
   
 Articles
-: <article> is applied to any section that "could stand alone and potentially be syndicated" (pg. 435), such as individual articles on a news page, or one post. Articles can be nested inside one another, such as comments for a blog post.
+: &lt;article&gt; is applied to any section that "could stand alone and potentially be syndicated" (pg. 435), such as individual articles on a news page, or one post. Articles can be nested inside one another, such as comments for a blog post.
   
 Asides
-: <aside> when used within an article should represent information related to the article but that is not entirely necessary, such as a pullquote or a definition of a word. Used outside an article it is for information realted to the entire webpage such as a search bar for the site.
+: &lt;aside&gt; when used within an article should represent information related to the article but that is not entirely necessary, such as a pullquote or a definition of a word. Used outside an article it is for information realted to the entire webpage such as a search bar for the site.
 
 Sections
-: <section> is a slightly vague element used to group related content together, each section will usually have it's own heading. It can be used to split a particularly long article into sections, to "contain different sections of the apge, such as latest news, top products, and newsletter signup" (pg. 437), or to group together multiple, related articles. However, <section> should not serve as a wrapper for the whole page.
+: &lt;section&gt; is a slightly vague element used to group related content together, each section will usually have it's own heading. It can be used to split a particularly long article into sections, to "contain different sections of the apge, such as latest news, top products, and newsletter signup" (pg. 437), or to group together multiple, related articles. However, &lt;section&gt; should not serve as a wrapper for the whole page.
 
 Heading groups
-: <hgroup> is used to contain multiple headings in one group, such as a heading and subsequent subheading, so that both can be treated as a single heading. It has received mixed reaction with some finding little use in it and other finding some use in it.
+: &lt;hgroup&gt; is used to contain multiple headings in one group, such as a heading and subsequent subheading, so that both can be treated as a single heading. It has received mixed reaction with some finding little use in it and other finding some use in it.
 
 Figures
-: <figure> can be used to contain content referenced by but not integral to the the main article or page, such as images, videos, graphs, diagrams, and code samples. <figcaption> can be used to add a caption for the figure it is contained within.
+: &lt;figure&gt; can be used to contain content referenced by but not integral to the the main article or page, such as images, videos, graphs, diagrams, and code samples. &lt;figcaption&gt; can be used to add a caption for the figure it is contained within.
 
 Linking around block-level elements
-: <a> can be used to turn an entire block level element into a link, this is not new to HTML 5 but was not previously seen as a correct use of the <a> tag.
+: &lt;a&gt; can be used to turn an entire block level element into a link, this is not new to HTML 5 but was not previously seen as a correct use of the &lt;a&gt; tag.
 
 ### HTML & CSS Chapter 18: “Process & Design” (pp.452-475)
 **Overview:**
