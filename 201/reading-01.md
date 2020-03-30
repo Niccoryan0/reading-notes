@@ -31,7 +31,7 @@ DNS
 **Definitions:**
 
 Tag
-: The "containers" which give some information about the content that lies between an opening and closing tag. Some tags, however, are "empty tags" meaning they only have an opening tag with no closing, such as line break, <br> or <hr> to add a horizontal line.
+: The "containers" which give some information about the content that lies between an opening and closing tag. Some tags, however, are "empty tags" meaning they only have an opening tag with no closing, such as line break, &lt;br&gt;, or &lt;hr&gt; to add a horizontal line.
 
 Element
 : The entire set of both tags, as well as the content contained within them, is referred to as a single element.
