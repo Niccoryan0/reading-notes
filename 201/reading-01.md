@@ -1,6 +1,6 @@
 # Reading 01
 
-*Readings for the first week of class*
+*Pre-work readings*
 
 ## HTML & CSS:
 ### Introduction (pp.2-11)
