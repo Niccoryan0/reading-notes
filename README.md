@@ -6,8 +6,8 @@
 - [401](#code-401-advanced-software-development)
 
 ## Code 201: Foundations of Software Development
-1. [Reading 01](201/reading-01.md)
-2. [Reading 02](201/reading-02.md)
+1. [Reading 01](201/class-01.md)
+2. [Reading 02](201/class-02.md)
 
 ## Code 301: Intermediate Software Development
 
