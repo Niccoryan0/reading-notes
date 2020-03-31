@@ -30,5 +30,4 @@ Conditional Statements
 : Will check whether a given script passed into it meets a predefined criteria, and acts based on whether or not it does. One such statement is an if or an if...else statement, which will run a piece of code only if whatever is passed into it evaluates true, else (otherwise) it does something else. Uses operators like == for is equal to, != for not equal to, >= for greater than or equal to, etc.
 
 Logical Operators
-: Comparison operators usually return a single value i.e. true or false, so we sometimes need to chain them together to check multiple in one go such as: ((6 > 3) && (1+2 == 3)), which would return true. These inclue the and operator, &&, the or operator, &#124;&#124;, and the not operator, !.
-
+: Comparison operators usually return a single value i.e. true or false, so we sometimes need to chain them together to check multiple in one go such as: ((6 > 3) && (1+2 == 3)), which would return true. These inclue the and operator, the or operator, and the not operator.
