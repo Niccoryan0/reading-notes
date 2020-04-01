@@ -1,4 +1,4 @@
-# Reading 02
+# Class 02 Readings
 
 *Day 1 readings*
 
