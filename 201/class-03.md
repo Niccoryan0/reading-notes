@@ -1,5 +1,5 @@
 # Class 03 Readings
-*Readings for Fay 3 of class*
+*Readings for Day 3 of class*
 
 ## HTML&CSS:
 ### Chapter 3: “Lists” (pp.62-73)
