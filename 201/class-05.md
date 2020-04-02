@@ -1,0 +1,12 @@
+# Reading 05
+*Readings for Day 5 of class*
+
+## HTML&CSS
+### Chapter 5: “Images” (pp.94-125)
+*Basics:* Images can be placed into an HTML document using an img tag, where a src is specified for te location of the photo and attributes like an alternate title for screen readers, title for more info about it, height and width of the image. Images will appear different in relation to surrounding elements based on where you include the tag, i.e. a tag inside a p tag will put the image within the actual paragraph, outside the image will be block-level automatically. Always remember to save images in the right format, i.e. jpeg, gif, png, save them at the right size, and measure them in pixels.
+
+### Chapter 11: “Color” (pp.246-263)
+*Basics:* Computer screen colors are made by mixing red, green and blue in different amounts to create all the other possible colors. These can be communicated to a computer using **rgb** values with 3 numbers corresponding to the value of each color i.e. rgb(102,205,170) which is like a light blue aquamarine color, the same color in **hex** codes appears as a string of 6 characters, #66cdaa where the 102 in the rgb became 66, 205 became cd, and 170 became aa. Lastly, **names** of colors can be used, such as "MediumAquaMarine" to achieve the same color, although these can be more limited than using the values. CSS3 has added anew way to specify colors however which uses a hue (selects the actual color used), saturation (amount of gray in the color) and lightness values (amount of white (lightness) or black (darkness) in a color).
+
+### Chapter 12: “Text” (pp.264-299)
+*Basics:* Font weights add both emphasis and can effect amount of white space & contrast. Style gives things like italics and oblique to the text. Stretch can adjust the sizing of characters according to if it's being condensed or expanded by the size of the browser. Typefaces will only appear for a user if they have the font installed on their computer, which is why it's often best to stick with standard fonts such as serif, sans-serif, monospace, cursive, fantasy, and many more. The space between lines of text, as well as individual letters and words, can be changed. The size of your different fonts across a page should conform to the same scale as thing like Word and Photoshop, as they are thought to be the most pleasing to look at. Font size can be measured in pixels, percentages and ems or the size relative to the size of text in parent element.
