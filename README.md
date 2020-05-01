@@ -20,7 +20,6 @@
 12. [Class 12](201/class-12.md)
 13. [Class 13](201/class-13.md)
 14. [Class 14](201/class-14.md)
-15. [Class 15](201/class-15.md)
 
 ## Code 301: Intermediate Software Development
 1. [Class 01](301/class-01.md)
