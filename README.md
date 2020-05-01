@@ -23,5 +23,20 @@
 15. [Class 15](201/class-15.md)
 
 ## Code 301: Intermediate Software Development
+1. [Class 01](301/class-01.md)
+2. [Class 02](301/class-02.md)
+3. [Class 03](301/class-03.md)
+4. [Class 04](301/class-04.md)
+5. [Class 05](301/class-05.md)
+6. [Class 06](301/class-06.md)
+7. [Class 07](301/class-07.md)
+8. [Class 08](301/class-08.md)
+9. [Class 09](301/class-09.md)
+10. [Class 10](301/class-10.md)
+11. [Class 11](301/class-11.md)
+12. [Class 12](301/class-12.md)
+13. [Class 13](301/class-13.md)
+14. [Class 14](301/class-14.md)
+15. [Class 15](301/class-15.md)
 
 ## Code 401: Advanced Software Development
