@@ -9,3 +9,5 @@
 - DISTINCT can be used to discard rows that have a duplicate column value, but will do so blindly.
 - ORDER BY is used to order the data with some given parameters, and each row is sorted alpha-numerically based on specified column value. Some databases also allow collations to be specified to better sort data with international languages used.
 - LIMIT is used to reduce the number of rows returned by a query, and OFFSET will specify where to begin counting the number of rows to return.
+- INSERT is used to add data to a database, UPDATE is used to update the data in a database, and DELETE to remove (but if WHERE is not specified all rows will be removed)
+- Tables can be created using CREATE and altered using ALTER
