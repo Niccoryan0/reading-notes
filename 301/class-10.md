@@ -14,13 +14,13 @@
 - A call stack uses LIFO (Last In, First Out) principles to store and manage function calls. It is single threaded, so i tcan only handle on responsibility at a time, it executes synchronously (hence it's use in asynch programming), a function call creates a "stack frame" in temporary memory.
 
 ## JavaScript error messages
-Reference Errors
+- Reference Errors
 : Using a variable not yet declared, or using const and let sometimes due to weird hoisting quirks. This is why JS devs frequently declare all variable at the top and assign them later on.
-Syntax Errors
+- Syntax Errors
 : Literally just syntax, something is written incorrectly and the only real fix is just fixing the syntax.
-Range Errors
+- Range Errors
 : Manipulating an object with some length property and giving an invalid length will throw this error. 
-Type Errors
+- Type Errors
 : Types being accessed or manipulared are incompatible, commonly pops up when trying to access properties of an object that aren't defined.
 - Debugging involves console.log() ing variables to confim their values, or by using Chrome or an IDE's developer tools, such as adding breaks or debuggers.
 - Handling errors involves using try and catch to "gracefully fallback to a sefault state in case of an error".
