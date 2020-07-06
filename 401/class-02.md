@@ -1,7 +1,7 @@
 # 401-02 Readings
 
 ## Unit Testing Best Practices *Not in Xunit, but concepts are still true
-[Link](https://stackify.com/unit-testing-basics-best-practices/)
+[Link](https://stackify.com/unit-testing-basics-best-practices/)\
 A few things unit tests DON'T do:
 - Deal w/ environment/external systems in the code base
 - Require "proper setup" to run
@@ -21,11 +21,11 @@ When you create setup heavy tests, you create brittle tests.  Tests carry a main
 - Add Them to the Build: Seems self explanatory, if a test fails the build fails.
 
 ## XUnit Documentation
-[Link](https://xunit.github.io/#documentation)
+[Link](https://xunit.github.io/#documentation)\
 Bookmarked, not sure if notes are required for this part? I glanced through the documentation home page.
 
 ## Art of Readme
-[Link](https://github.com/noffle/art-of-readme)
+[Link](https://github.com/noffle/art-of-readme)\
 Interesting tidbit: "The pattern of README appearing in all-caps is a consistent facet throughout history. In addition to the visual strikingness of using all-caps, UNIX systems would sort capitals before lower case letters, conveniently putting the README before the rest of the directory's content."\
 READMEs should:
 - Tell a user what the project is
@@ -37,7 +37,7 @@ In general just ensure that a README is easily digestible to the target audience
 
 
 ## ReadMe Best Practices
-[Link](https://github.com/jehna/readme-best-practices)
+[Link](https://github.com/jehna/readme-best-practices)\
 Good template for making READMEs, can be downloaded and changed to fit your project.\
 *Taken from README:*\
 This project makes it easy to:
