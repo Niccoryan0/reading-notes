@@ -30,7 +30,19 @@
 - The stack is in charge of what is getting executed when, and like a stack of boxes, whatever goes on last has to come off first, First In Last Out. The stack is self maintaining, it takes care of it's own memory management, discarding items as they're executed.
 - The heap is generally just in charge of holding information, which can be accessed at any time unlike the stack, similar to a heap of laundry on the bed where any article of clothing can be pulled out at will. The heap must worry about Garbage Collection (GC), which deals with "keeping the heap clean".
 - For main things are put into the stack and heap during execution of code: Value Types, Reference Types (class, interface, delegate, object, string), Pointers (Reference to a type, managed by CLR), and Instructions. 
-- 
+- "A Reference Type always goes on the Heap easy enough, right? Value Types and Pointers always go where they were declared.  This is a little more complex and needs a bit more understanding of how the Stack works to figure out where "things" are declared."
+- "Now, Value Types are also sometimes placed on the Heap.  Remember the rule, Value Types always go where they were declared?  Well, if a Value Type is declared outside of a method, but inside a Reference Type, it will be placed within the Reference Type on the Heap."
 
 ## Garbage Collection Fundamentals
 [Link](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)\
+- The GC frees devs from manually releasing memory, efficiently allocates heap objects, reclaims unused objects and clears their memory, and provides memory safety by ensuring objects can't use other object's content.
+- Free memory has no references to it and is available for allocation, Reserved memory is available for use but can't be used for any other allocation requests, it cannot store data until it is committed, and Committed memory is assigned to physical storage.
+- The GC's optimizing engine performs colections at the determined best time and releases memory for objects no longer in use, which it finds by examining the app's roots (static fields, local vars and parameters).
+- Conditions for DC: system has low physical memory, memory used by allocated objects on the managed heap passes a certain threshold, or GC.Collect is called, but this is almost never necessary.
+- A "managed heap" is what the GC creates by allocating memory to store and manage objects. 
+- In reclaiming, live objects are compacted and can be moved together while dead space is removed, shrinking the heap.
+
+- The GC algorithm is based on several considerations:
+1. "It's faster to compact the memory for a portion of the managed heap than for the entire managed heap.
+2. Newer objects have shorter lifetimes and  older objects have longer lifetimes.
+3. Newer objects tend to be related to each other and accessed by the application around the same time."
