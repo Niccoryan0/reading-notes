@@ -39,7 +39,6 @@
 15. [Class 15](301/class-15.md)
 
 ## Code 401: Advanced Software Development
-0. [Prework] (401/prework.md)
 1. [Class 01](401/class-01.md)
 2. [Class 02](401/class-02.md)
 3. [Class 03](401/class-03.md)
