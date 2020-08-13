@@ -1,4 +1,4 @@
-# # 401-267 Readings
+# # 401-27 Readings
 
 ## Razor Pages
 [Link](https://gunnarpeipman.com/aspnet-core-razor-pages/)
